@@ -1,0 +1,7 @@
+int main() {
+    @name = "jawad"#
+    print("My Name is", @name)#
+    if @name print(hello jadi)#
+    @a = 1 + 2#
+    return 0#
+}
